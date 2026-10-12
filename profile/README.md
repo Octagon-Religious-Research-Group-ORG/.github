@@ -7,9 +7,12 @@
 
 <p align="center">
   <a href="https://orgspirituality.org"><img alt="Website: orgspirituality.org" src="https://img.shields.io/badge/website-orgspirituality.org-5800FF?style=flat-square"></a>
-  <a href="https://org-new-look.netlify.app/"><img alt="Design directions: proposal" src="https://img.shields.io/badge/design_directions-proposal-e9be72?style=flat-square"></a>
+  <a href="https://octagon-religious-research-group-org.github.io/"><img alt="Entry portal" src="https://img.shields.io/badge/entry-portal-9a4dff?style=flat-square"></a>
+  <a href="https://octagon-religious-research-group-org.github.io/changelog-astro-public/"><img alt="ORG AstroLog: changelog and library" src="https://img.shields.io/badge/AstroLog-changelog_%26_library-e9be72?style=flat-square"></a>
+  <a href="https://octagon-religious-research-group-org.github.io/changelog-astro-public/ledger"><img alt="Ledger: every public change" src="https://img.shields.io/badge/ledger-every_public_change-e65aa8?style=flat-square"></a>
+  <a href="https://octagon-religious-research-group-org.github.io/changelog-astro-public/map"><img alt="Map of ORG's sites" src="https://img.shields.io/badge/map-how_it_fits-3ccfe0?style=flat-square"></a>
+  <a href="https://drasticstatic.github.io/O-R-G-astro-public/"><img alt="The drasticstatic ORG lab" src="https://img.shields.io/badge/drasticstatic-ORG_lab-6fd84a?style=flat-square"></a>
   <a href="https://drasticstatic.github.io/O-R-G-dapp-public-preview/"><img alt="dApp preview" src="https://img.shields.io/badge/dApp-preview-8b6cf6?style=flat-square"></a>
-  <a href="https://drasticstatic.github.io/O-R-G-astro-public/changelog"><img alt="Changelog" src="https://img.shields.io/badge/changelog-sidecar-4fd1c5?style=flat-square"></a>
   <a href="https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets"><img alt="Brand assets" src="https://img.shields.io/badge/brand-assets-22408a?style=flat-square"></a>
 </p>
 
@@ -50,17 +53,28 @@ belief becomes ORG's once most voting members agree. Votes never close, so any b
 >
 > <sub>Belief I. Proposed by Chris. 3 of 3 members agree.</sub>
 
-The same goes for the website itself: design changes are proposed to members and decided by vote.
 [Read all nine majority-held beliefs](https://orgspirituality.org/beliefs).
+
+The website is next. ORG's new builds, below, grew out of a design proposal shared with members, and
+the open question now is how they come together with orgspirituality.org. The likely direction is a
+new, web3-ready site rather than adding web3 onto the current one.
+[Help decide what comes next](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions#what-comes-next).
 
 ## Explore
 
 | Where | What you'll find |
 | --- | --- |
 | [orgspirituality.org](https://orgspirituality.org) | The official site: beliefs, community, research, and offerings. |
-| [Design directions](https://org-new-look.netlify.app/) | Three proposed looks for the site, Night Sanctuary, Prism Light, and Stone & Lapis, offered to members for a vote. |
-| [dApp preview](https://drasticstatic.github.io/O-R-G-dapp-public-preview/) | A playground that keeps all three looks at once: an octagon made of ORG's artwork, marbled ink you can stir, and a wallet-connect donation flow. |
-| [Sidecar](https://drasticstatic.github.io/O-R-G-astro-public/) | A changelog of every notable change to ORG's sites, and a map of how they fit together. |
+| [Entry portal](https://octagon-religious-research-group-org.github.io/) | ORG's front door on GitHub: the nine doors, the latest changes, and the way into everything below. |
+| [ORG AstroLog](https://octagon-religious-research-group-org.github.io/changelog-astro-public/) | ORG's official changelog and library, in plain language, with who made each change. |
+| [Ledger](https://octagon-religious-research-group-org.github.io/changelog-astro-public/ledger) | Every public change to ORG's code, in plain words, grouped by day and by kind. Refreshed daily. |
+| [Map](https://octagon-religious-research-group-org.github.io/changelog-astro-public/map) | How ORG's code, hosting, and previews connect. |
+| [Three directions, living together](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions) | Renan Teixeira's design proposal, the spark for the new builds, kept as history. Its three looks live on as lights on every ORG page. |
+| [drasticstatic ORG lab](https://drasticstatic.github.io/O-R-G-astro-public/) | Christopher's lab, where the new builds take shape, with its own [changelog](https://drasticstatic.github.io/O-R-G-astro-public/changelog/) and [ledger](https://drasticstatic.github.io/O-R-G-astro-public/ledger/). |
+| [dApp preview](https://drasticstatic.github.io/O-R-G-dapp-public-preview/) | A web3-ready preview from the lab: an octagon made of ORG's artwork, the beliefs, marbled ink you can stir, and a wallet-connect gift. |
+
+Every ORG page here shares one arrival kit: choose a light, a pace and a contrast when you arrive,
+press <kbd>/</kbd> to search, tap the book for reading mode, and see what's new since your last visit.
 
 ## Repositories
 
@@ -70,7 +84,8 @@ The same goes for the website itself: design changes are proposed to members and
 | [org-backend](https://github.com/Octagon-Religious-Research-Group-ORG/org-backend) | The API behind offerings, member profiles, and editable pages. |
 | [ORG-Website](https://github.com/Octagon-Religious-Research-Group-ORG/ORG-Website) | The earlier version of the site, kept for reference. |
 | [brand-assets](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets) | The octagon logo, avatar, and favicons, with usage guidelines. |
-| [Octagon-Religious-Research-Group-ORG.github.io](https://github.com/Octagon-Religious-Research-Group-ORG/Octagon-Religious-Research-Group-ORG.github.io) | The organization's root page. |
+| [Octagon-Religious-Research-Group-ORG.github.io](https://github.com/Octagon-Religious-Research-Group-ORG/Octagon-Religious-Research-Group-ORG.github.io) | The entry portal, which also serves the arrival kit every ORG page shares. |
+| [changelog-astro-public](https://github.com/Octagon-Religious-Research-Group-ORG/changelog-astro-public) | The ORG AstroLog's published pages (written in a private source repository). |
 | [.github](https://github.com/Octagon-Religious-Research-Group-ORG/.github) | This profile. |
 
 ## People
@@ -78,8 +93,8 @@ The same goes for the website itself: design changes are proposed to members and
 | | |
 | --- | --- |
 | **Tripp Aardema** | Founder. Leads ORG and much of the site's content and design. |
-| **Renan Teixeira** ([@SCDEVBrazil](https://github.com/SCDEVBrazil)) | Develops the website and drew up the design directions. |
+| **Renan Teixeira** ([@SCDEVBrazil](https://github.com/SCDEVBrazil)) | Develops the website and drew up the design directions that started ORG's new builds. |
 | **mitch8020** ([@mitch8020](https://github.com/mitch8020)) | Built the original site and its API. |
-| **Christopher** ([@drasticstatic](https://github.com/drasticstatic)) | Looks after ORG's GitHub and builds the previews, with [Alfred](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview). |
+| **Christopher** ([@drasticstatic](https://github.com/drasticstatic)) | Looks after ORG's GitHub and builds the previews in his [lab](https://drasticstatic.github.io/O-R-G-astro-public/), with [Alfred](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview). |
 
 <p align="center"><sub>Where science and spirituality meet.</sub></p>
