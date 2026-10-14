@@ -101,5 +101,6 @@ press <kbd>/</kbd> to search, tap the book for reading mode, and see what's new 
 ## Community health
 
 - [`CONTACTS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/CONTACTS.md): every way to reach ORG (its addresses, the ORG group on Telegram, and Tripp)
+- [`SOCIAL-PREVIEWS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/SOCIAL-PREVIEWS.md): how to refresh link previews in Telegram, LinkedIn, Facebook and more, and which pages have their own share image
 
 <p align="center"><sub>Where science and spirituality meet.</sub></p>
