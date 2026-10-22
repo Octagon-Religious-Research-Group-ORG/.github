@@ -8,3 +8,8 @@ The Octagon Religious-Research Group's organization profile. GitHub shows
 The banners are generated SVGs: the octagon is drawn as vectors, the marbled ink is an SVG turbulence
 filter, and the headline font is embedded so it renders the same everywhere. Their motion stops for
 anyone who has reduced motion turned on.
+
+## License
+
+Code is MIT ([`LICENSE`](LICENSE)); written content is CC BY-SA 4.0 ([`LICENSE-CONTENT`](LICENSE-CONTENT)).
+ORG's name, the octagon and its other marks aren't covered by either: see [`TRADEMARKS.md`](TRADEMARKS.md).
