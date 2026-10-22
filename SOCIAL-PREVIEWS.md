@@ -5,7 +5,7 @@ preview card (title, description and a share image) that it fetched **once** and
 After a share image or title changes, old previews keep showing until each app is told to look again.
 This file lists how to do that for each app, and which pages have their own tailored share image.
 
-*Generated 2026-10-14 by the arrival kit's `social/social-previews.mjs` (canonical copy in
+*Generated 2026-10-22 by the arrival kit's `social/social-previews.mjs` (canonical copy in
 [my-template](https://github.com/drasticstatic/my-template/tree/main/changelog-template/arrival/social)).
 Re-run it after deploys that add pages or change share images.*
 
@@ -28,7 +28,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ## 🖼️ Share-image ledger
 
-42 pages checked: **40 tailored**, 2 using the default card,
+44 pages checked: **42 tailored**, 2 using the default card,
 0 with no share image.
 
 ### ✨ Pages with their own tailored share image
@@ -36,6 +36,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | Page | Title | Share image |
 |---|---|---|
 | [octagon-religious-research-group-org.github.io/donate/](https://octagon-religious-research-group-org.github.io/donate/) | Donate: ORG on GitHub | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/donate.jpg) |
+| [octagon-religious-research-group-org.github.io/pledge/](https://octagon-religious-research-group-org.github.io/pledge/) | A pledge of support: ORG on GitHub | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/pledge.jpg) |
 | [octagon-religious-research-group-org.github.io/map/](https://octagon-religious-research-group-org.github.io/map/) | Map: ORG on GitHub | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/map.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog) | Changelog: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/library](https://octagon-religious-research-group-org.github.io/changelog-astro-public/library) | Library: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/library.jpg) |
@@ -46,6 +47,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/api](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/api) | The API: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github) | ORG on GitHub: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/previews](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/previews) | Previews and proposals: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/page/changelog.jpg) |
+| [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-22-every-org-chat-a-pledge-and-licenses](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-22-every-org-chat-a-pledge-and-licenses) | Every ORG chat in one window, a pledge of support, and licenses for ORG's GitHub home: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/changelog/github/2026-10-22-every-org-chat-a-pledge-and-licenses.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in) | A navbar on every page, a map with pictures, and one window for every way in: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive) | Choose how you arrive: a welcome, / to search, and faces on every change: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/changelog/github/2026-10-12-choose-how-you-arrive.jpg) |
 | [octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card](https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card) | Share one entry, and it arrives with its own card: ORG AstroLog | [image](https://octagon-religious-research-group-org.github.io/changelog-astro-public/og/changelog/github/2026-10-12-every-entry-shares-with-its-own-card.jpg) |
@@ -86,6 +88,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 ```
 https://octagon-religious-research-group-org.github.io/
 https://octagon-religious-research-group-org.github.io/donate/
+https://octagon-religious-research-group-org.github.io/pledge/
 https://octagon-religious-research-group-org.github.io/map/
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog
@@ -97,6 +100,7 @@ https://octagon-religious-research-group-org.github.io/changelog-astro-public/ch
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/api
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/previews
+https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-22-every-org-chat-a-pledge-and-licenses
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-choose-how-you-arrive
 https://octagon-religious-research-group-org.github.io/changelog-astro-public/changelog/github/2026-10-12-every-entry-shares-with-its-own-card
