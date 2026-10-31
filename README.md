@@ -5,6 +5,9 @@ The Octagon Religious-Research Group's organization profile. GitHub shows
 [organization page](https://github.com/Octagon-Religious-Research-Group-ORG); its banners and tiles live in
 [`profile/assets/`](profile/assets/).
 
+ORG's slide decks live in [`decks/`](decks/), each as markdown, HTML and PDF, starting with the newcomer's
+*Welcome to ORG*.
+
 The banners are generated SVGs: the octagon is drawn as vectors, the marbled ink is an SVG turbulence
 filter, and the headline font is embedded so it renders the same everywhere. Their motion stops for
 anyone who has reduced motion turned on.

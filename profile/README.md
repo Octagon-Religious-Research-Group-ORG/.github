@@ -90,6 +90,21 @@ new, web3-ready site rather than adding web3 onto the current one.
 Every ORG page here shares one arrival kit: choose a light, a pace and a contrast when you arrive,
 press <kbd>/</kbd> to search, tap the book for reading mode, and see what's new since your last visit.
 
+## Proposals, procedures and decks
+
+A **proposal** asks ORG for a decision; a **procedure** says how an agreed thing is done; a **deck** walks a
+newcomer through both. Members read all of them in ORG's private reading room. What ORG chooses to share is
+here, one page at a time.
+
+| Where | What you'll find |
+| --- | --- |
+| [The reading room's public shelf](https://octagon-religious-research-group-org.github.io/reading-room-public/) | One page in the browser: the decks and procedures ORG has shared, and how to ask for the members' room. |
+| [ORG procedures, public](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures-public) | The procedures ORG's officers have marked public, each with its PDF. Nobody edits it by hand; pages arrive from the members' copy. |
+| [Decks](https://github.com/Octagon-Religious-Research-Group-ORG/.github/tree/main/decks) | Slide walk-throughs, starting with [Welcome to ORG](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/decks/welcome.marp.pdf): where everything lives, how a change travels, and how to answer. |
+
+<sub>The public shelf and the public procedures opened in October 2026 and fill as officers add pages. Proposals stay
+with members until ORG decides; what it decides shows up in the [AstroLog](https://octagon-religious-research-group-org.github.io/changelog-astro-public/).</sub>
+
 ## Repositories
 
 | Repository | What it holds |
@@ -100,7 +115,7 @@ press <kbd>/</kbd> to search, tap the book for reading mode, and see what's new 
 | [brand-assets](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets) | The octagon logo, avatar, and favicons, with usage guidelines. |
 | [Octagon-Religious-Research-Group-ORG.github.io](https://github.com/Octagon-Religious-Research-Group-ORG/Octagon-Religious-Research-Group-ORG.github.io) | The entry portal, which also serves the arrival kit every ORG page shares. |
 | [changelog-astro-public](https://github.com/Octagon-Religious-Research-Group-ORG/changelog-astro-public) | The ORG AstroLog's published pages (written in a private source repository). |
-| [.github](https://github.com/Octagon-Religious-Research-Group-ORG/.github) | This profile. |
+| [.github](https://github.com/Octagon-Religious-Research-Group-ORG/.github) | This profile, and ORG's [decks](https://github.com/Octagon-Religious-Research-Group-ORG/.github/tree/main/decks). |
 
 ## People
 
