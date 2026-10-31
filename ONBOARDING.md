@@ -65,6 +65,17 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
 - The organization's owners.
 - **Christopher W** ([@drasticstatic](https://github.com/drasticstatic)), the technical steward, for GitHub, the machinery, access, or anything that seems stuck.
 
+## 📖 Proposals, procedures and decks
+
+- **Start with the deck:** [Welcome to Octagon Religious Research Group (ORG)](decks/welcome.marp.pdf) ([markdown](decks/welcome.marp.md)) walks
+  through where everything lives and the road a change travels.
+- **Proposals** (*should we?*) are in [`Octagon-Religious-Research-Group-ORG/proposals`](https://github.com/Octagon-Religious-Research-Group-ORG/proposals) (members);
+  **procedures** (*how we do it now*) in the [public twin](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures-public);
+  both gather in the [reading room](https://octagon-religious-research-group-org.github.io/reading-room-public/).
+- **Bringing an AI helper as a member?** Its first page is
+  [WELCOME-FOR-YOUR-HELPER.md](https://github.com/Octagon-Religious-Research-Group-ORG/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
+  in the members' home (private: it opens only when you're signed in as a member).
+
 ## 🔗 More
 
 - [Many AI tools, one team](https://github.com/drasticstatic/my-template/blob/main/walkthroughs/MANY-AI-TOOLS-ONE-TEAM.md)
@@ -80,7 +91,9 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
 <details>
 <summary><b>For the AI helper reading this</b></summary>
 
-In any repository of Octagon Religious Research Group (ORG):
+If your person is a member, read
+[WELCOME-FOR-YOUR-HELPER.md](https://github.com/Octagon-Religious-Research-Group-ORG/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
+first (members only; a 404 means your connection can't reach `.github-private` yet). Then, in any repository of Octagon Religious Research Group (ORG):
 1. Read `AGENTS.md` first, then sync: `git pull --rebase --autostash`.
 2. Work on `preview`. Never commit to `main`, never force-push.
 3. Follow the never-publish rule above. When unsure, ask your person before writing anything public.
