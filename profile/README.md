@@ -20,9 +20,21 @@
 ones most of them agree on, and together they plan octagon-shaped temples and research centers where
 spirituality and science are practiced side by side. Tripp A founded ORG.
 
+## <img src="./assets/icons/compass.svg" width="22" height="22" alt=""> New here? Start with the welcome
+
+| | Open | For |
+| --- | --- | --- |
+| <img src="./assets/icons/presentation.svg" width="16" height="16" alt=""> | **[Welcome deck](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/decks/welcome.marp.pdf)**: seven stops through ORG on GitHub, as slides ([markdown](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/decks/welcome.marp.md), [html](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/decks/welcome.marp.html)) | everyone, first |
+| <img src="./assets/icons/user-plus.svg" width="16" height="16" alt=""> | **[SOP-COM-001 *New to GitHub: your first hour*](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md)**: your own account and password, two-factor, the invitation, five words | newcomers (members; a public copy follows on the procedures twin) |
+| <img src="./assets/icons/door-open.svg" width="16" height="16" alt=""> | **[The reading room](https://github.com/Octagon-Religious-Research-Group-ORG/reading-room)**: proposals, procedures and decks, each a page and a PDF, read in the browser | members (a 404 means "not invited yet" or "signed out") |
+| <img src="./assets/icons/globe.svg" width="16" height="16" alt=""> | **[The public room](https://octagon-religious-research-group-org.github.io/reading-room-public/)**: what ORG has chosen to share, and how to ask for the members' room | visitors |
+| <img src="./assets/icons/scroll-text.svg" width="16" height="16" alt=""> | **Procedures**: [members' copy](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures) · [public twin](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures-public) | how an approved thing is done, step by step |
+| <img src="./assets/icons/file-text.svg" width="16" height="16" alt=""> | **[Proposals](https://github.com/Octagon-Religious-Research-Group-ORG/proposals)**: where ideas become plans and go to a vote in ORG (Voting) on Telegram | members |
+| <img src="./assets/icons/sparkles.svg" width="16" height="16" alt=""> | **[Gitmoji](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md)**: every commit subject starts with one, `:memo: docs(scope): subject`; [CONTRIBUTING](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/CONTRIBUTING.md) says the rest | anyone who writes here, and their helper |
+
 <div align="center">
 
-## Enter through any door
+## <img src="./assets/icons/octagon.svg" width="22" height="22" alt=""> Enter through any door
 
 The same nine tabs as the home page of [orgspirituality.org](https://orgspirituality.org), printed as
 one perforated blotter sheet with ORG at its center. Tear off any door.
@@ -53,7 +65,7 @@ one perforated blotter sheet with ORG at its center. Tear off any door.
 
 </div>
 
-## How ORG decides
+## <img src="./assets/icons/users.svg" width="22" height="22" alt=""> How ORG decides
 
 Every belief starts on one member's page. Other members agree, disagree, or suggest better words, and a
 belief becomes ORG's once most voting members agree. Votes never close, so any belief can be revisited.
@@ -70,7 +82,7 @@ the open question now is how they come together with orgspirituality.org. The li
 new, web3-ready site rather than adding web3 onto the current one.
 [Help decide what comes next](https://octagon-religious-research-group-org.github.io/changelog-astro-public/three-directions#what-comes-next).
 
-## Explore
+## <img src="./assets/icons/map.svg" width="22" height="22" alt=""> Explore
 
 | Where | What you'll find |
 | --- | --- |
@@ -105,7 +117,7 @@ here, one page at a time.
 <sub>The public shelf and the public procedures opened in October 2026 and fill as officers add pages. Proposals stay
 with members until ORG decides; what it decides shows up in the [AstroLog](https://octagon-religious-research-group-org.github.io/changelog-astro-public/).</sub>
 
-## Repositories
+## <img src="./assets/icons/layers.svg" width="22" height="22" alt=""> Repositories
 
 | Repository | What it holds |
 | --- | --- |
@@ -115,9 +127,12 @@ with members until ORG decides; what it decides shows up in the [AstroLog](https
 | [brand-assets](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets) | The octagon logo, avatar, and favicons, with usage guidelines. |
 | [Octagon-Religious-Research-Group-ORG.github.io](https://github.com/Octagon-Religious-Research-Group-ORG/Octagon-Religious-Research-Group-ORG.github.io) | The entry portal, which also serves the arrival kit every ORG page shares. |
 | [changelog-astro-public](https://github.com/Octagon-Religious-Research-Group-ORG/changelog-astro-public) | The ORG AstroLog's published pages (written in a private source repository). |
-| [.github](https://github.com/Octagon-Religious-Research-Group-ORG/.github) | This profile, and ORG's [decks](https://github.com/Octagon-Religious-Research-Group-ORG/.github/tree/main/decks). |
+| [.github](https://github.com/Octagon-Religious-Research-Group-ORG/.github) | This profile, and the welcome deck in [`decks/`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/tree/main/decks). |
+| [reading-room-public](https://github.com/Octagon-Religious-Research-Group-ORG/reading-room-public) | The public room's page and whatever ORG's officers have chosen to share from the members' room. |
+| [ops-standard-operating-procedures-public](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures-public) | The procedures ORG shares, copied from the members' copy only after a check that reads every file. |
+| <img src="./assets/icons/folder-lock.svg" width="16" height="16" alt=""> `reading-room`, `proposals`, `ops-standard-operating-procedures`, `legal`, `changelog-astro`, `.github-private` | Members only. Names may be public; what is inside stays with ORG's people. |
 
-## People
+## <img src="./assets/icons/handshake.svg" width="22" height="22" alt=""> People
 
 | | |
 | --- | --- |
@@ -126,19 +141,20 @@ with members until ORG decides; what it decides shows up in the [AstroLog](https
 | **JP M** ([@mitch8020](https://github.com/mitch8020)) | Built the original site and its API. |
 | **Christopher W** ([@drasticstatic](https://github.com/drasticstatic)) | Looks after ORG's GitHub and builds the previews in his [lab](https://drasticstatic.github.io/O-R-G-astro-public/), with [Alfred](https://github.com/drasticstatic/anthropas-argus-alfred-public-preview). |
 
-## Community health
+## <img src="./assets/icons/heart.svg" width="22" height="22" alt=""> Community health
 
-- [`ONBOARDING.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/ONBOARDING.md): **joined the organization? start here**: two-factor login, connecting your AI helper, and how we work
-- [`CONTACTS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/CONTACTS.md): every way to reach ORG (its addresses, ORG's chats on Telegram, and Tripp)
-- [`SOCIAL-PREVIEWS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/SOCIAL-PREVIEWS.md): how to refresh link previews in Telegram, LinkedIn, Facebook and more, and which pages have their own share image
+- <img src="./assets/icons/compass.svg" width="16" height="16" alt=""> [`ONBOARDING.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/ONBOARDING.md): **joined the organization? start here**: two-factor login, connecting your AI helper, and how we work
+- <img src="./assets/icons/users-round.svg" width="16" height="16" alt=""> [`CONTACTS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/CONTACTS.md): every way to reach ORG (its addresses, ORG's chats on Telegram, and Tripp)
+- <img src="./assets/icons/globe.svg" width="16" height="16" alt=""> [`SOCIAL-PREVIEWS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/SOCIAL-PREVIEWS.md): how to refresh link previews in Telegram, LinkedIn, Facebook and more, and which pages have their own share image
+- <img src="./assets/icons/git-pull-request.svg" width="16" height="16" alt=""> [`CONTRIBUTING.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/CONTRIBUTING.md): how a change reaches ORG (pull requests, merge commits, a person merges) and the [Gitmoji](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md) at the start of each commit
 
-## License
+## <img src="./assets/icons/badge-check.svg" width="22" height="22" alt=""> License
 
-- 💻 **Code:** MIT, see [`LICENSE`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/LICENSE)
-- 📝 **Written content** (docs, changelog and library prose, READMEs): CC BY-SA 4.0, see [`LICENSE-CONTENT`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/LICENSE-CONTENT)
-- 🏷️ **The name ORG, the octagon and ORG's other marks:** not covered by either license, see [`TRADEMARKS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/TRADEMARKS.md) and the [brand guidelines](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets)
+- <img src="./assets/icons/file-text.svg" width="16" height="16" alt=""> **Code:** MIT, see [`LICENSE`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/LICENSE)
+- <img src="./assets/icons/book-open.svg" width="16" height="16" alt=""> **Written content** (docs, changelog and library prose, READMEs): CC BY-SA 4.0, see [`LICENSE-CONTENT`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/LICENSE-CONTENT)
+- <img src="./assets/icons/landmark.svg" width="16" height="16" alt=""> **The name ORG, the octagon and ORG's other marks:** not covered by either license, see [`TRADEMARKS.md`](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/TRADEMARKS.md) and the [brand guidelines](https://github.com/Octagon-Religious-Research-Group-ORG/brand-assets)
 
 These cover ORG's GitHub home: this profile, the entry portal and the AstroLog. The live site's code
 (`org-frontend`, `org-backend`) and the first site (`ORG-Website`) aren't licensed yet.
 
-<p align="center"><sub>Where science and spirituality meet.</sub></p>
+<p align="center"><sub>Where science and spirituality meet. Icons: <a href="https://lucide.dev">Lucide</a> (ISC), in ORG's emerald.</sub></p>

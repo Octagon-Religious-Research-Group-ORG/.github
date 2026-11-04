@@ -9,6 +9,8 @@ like.
 
 Every change rehearses before it goes live, so nothing you try can break anything.
 
+**First time on GitHub?** Page through the [welcome deck](https://github.com/Octagon-Religious-Research-Group-ORG/.github/blob/main/decks/welcome.marp.pdf) (seven stops, as slides); the full first hour is SOP-COM-001 in ORG's procedures. Commit subjects start with a [gitmoji](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md); [CONTRIBUTING.md](CONTRIBUTING.md) has the five lines.
+
 | | Step | How |
 |---|---|---|
 | 🚪 | **Accept the invitation** | The email from GitHub, or the notification on github.com, then **Join** |

@@ -5,7 +5,7 @@ the PDF for your eyes, the HTML to present from a browser, and the markdown it w
 
 | Deck | What it walks through | Files |
 |---|---|---|
-| **Welcome to ORG** | Where the proposals, procedures and decks live, the reading room, how a change travels, how to answer, and who to ask | [PDF](welcome.marp.pdf) · [HTML](welcome.marp.html) · [markdown](welcome.marp.md) |
+| **Welcome to ORG** | Where the proposals, procedures and decks live, the reading room, how a change travels, how to answer, and where to start | [PDF](welcome.marp.pdf) · [HTML](welcome.marp.html) · [markdown](welcome.marp.md) |
 
 The decks are made with [Marp](https://marp.app) from the shared newcomer template in
 [`my-template/decks-template`](https://github.com/drasticstatic/my-template/tree/main/decks-template). To change one,
