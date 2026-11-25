@@ -30,6 +30,14 @@ Tripp OK'd every link below for these pages. Two chats are open to anyone; two g
 [membership form](https://www.icloud.com/pages/051s7hMIDB_LNvP2CEYUZfkew#Membership) (or, for EaMs,
 their EaM form) is complete, so it's fine to ask to join now: the request simply waits until then.
 
+## Discord
+
+ORG's Discord is an addition to the Telegram chats above, not a move: both stay open.
+
+| Where | Who it's for |
+| --- | --- |
+| [ORG's Discord](https://discord.gg/DkNFvCvVKA) | ORG's Discord server, open to anyone. Start in ✅┃start-here |
+
 ## Websites
 
 | Where | What it is |
